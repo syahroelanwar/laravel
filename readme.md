@@ -1,4 +1,4 @@
-Belajar Laravel 6 CRUD & Paginate Using MDBootstrap Template
+<h2>Belajar Laravel 6 CRUD & Paginate Using MDBootstrap Template</h2>
 
 
 ![c1](https://user-images.githubusercontent.com/34033084/68071981-f486ed00-fdb2-11e9-8228-3bb633a8509c.PNG)<br/><br/><br/><br/>
